@@ -234,3 +234,5 @@
 2024-09-02 18:56:00 | DEBUG | repo=curl | action=commit
 2025-03-22 15:11:00 | DEBUG | repo=curl | action=commit
 2025-01-18 12:21:00 | WARN | repo=curl | action=commit
+2025-12-25 21:40:00 | WARN | repo=curl | action=pull
+2025-11-03 20:09:00 | WARN | repo=curl | action=commit
