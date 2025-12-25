@@ -257,3 +257,5 @@
 2025-05-13 08:57:00 | INFO | repo=curl | action=commit
 2025-05-26 07:02:00 | WARN | repo=curl | action=commit
 2025-12-13 20:16:00 | DEBUG | repo=curl | action=commit
+2025-05-06 12:46:00 | WARN | repo=curl | action=pull
+2025-12-25 20:55:00 | WARN | repo=curl | action=commit
